@@ -17,8 +17,10 @@ Connect with me :
 <p style="text-align:center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40"/></a> 
+<a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank" rel="noreferrer"> <img src="index.svg" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
+
 </p>
   
 #### Software Development
