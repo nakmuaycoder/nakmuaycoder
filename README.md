@@ -43,8 +43,14 @@ Connect with me :
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" heighr="40"/> </a>
+</p> 
+  
+
+#### Data Visualisation
+<p style="text-align:center">
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" heighr="40"/> </a>
-</p>
+<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8440965?s=200&v=4" alt="bokeh" width="40" heighr="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" heighr="40"/> </a>
 </p>
 
 
