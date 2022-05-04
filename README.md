@@ -15,17 +15,15 @@ Connect with me :
 ## Languages and Tools:
 
 #### Platforms
-<p style="text-align:center">
+<p style="text-align:left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank" rel="noreferrer"> <img src="index.svg" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a>
-
-</p>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a></p>
   
 #### Software Development
-<p style="text-align:center">
+<p style="text-align:left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
@@ -35,30 +33,37 @@ Connect with me :
 </p>
 
 #### Data Science
-<p style="text-align:center">
+<p style="text-align:left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" heighr="40"/> </a>
+<a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" height="40"/> </a>
 </p> 
   
 
 #### Data Visualisation
-<p style="text-align:center">
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" heighr="40"/> </a>
-<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8440965?s=200&v=4" alt="bokeh" width="40" heighr="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" heighr="40"/> </a>
+<p style="text-align:left">
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8440965?s=200&v=4" alt="bokeh" width="40" height="40"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-
 ## PROFESSIONAL EXPERIENCES
+* __01.22 -__, AI Engineer, _NAVAL GROUP_, SAINT TROPEZ, FRANCE
 * __06.21 - 01.22__, R&D DATA SCIENTIST, _NAVAL GROUP_, TOULON, FRANCE
 * __02.18 - 08.19__, DATA SCIENTIST, _AIRBUS HELICOPTERS_, MARSEILLE, FRANCE
 * __10.17 - 02.18__, DATA ANALYST, _PwC France_, MONTPELLIER, FRANCE
 * __01.16 - 05.17__, MUAY THAI FIGHTER, _Sitboonmee Gym_, BURIRAM, THAILAND
+
+<p style="text-align:left">
+<a href="https://www.youtube.com/watch?v=Cl7UZN4Wqzk" target="_blank" rel="noreferrer">
+<img src="https://img.youtube.com/vi/Cl7UZN4Wqzk/1.jpg">
+</a></p>
+
+
 * __04.15 - 12.15__, DATA ANALYST _(internship)_, _GEMALTO_, LA CIOTAT, FRANCE
 * __04.14 - 08.14__, Statistician _(internship)_, _Commission Locale d’Information de Cadarache et d’ITER_, AIX EN PROVENCE, FRANCE
 
