@@ -5,7 +5,7 @@
 # Hi! I'm **nakmuaycoder**
 
 I'm a former professional muay thai fighter passionated in Artificial intelligence.<br>
-I’m currently working as **AI Engineer** at **NAVAL GROUP**.
+I’m currently working as **Computer vision and ML Engineer** at **7 sensing software** *(an ams-OSRAM company)*.
 
 
 Connect with me :
@@ -34,7 +34,8 @@ Connect with me :
 
 #### Data Science
 <p style="text-align:left">
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
@@ -52,7 +53,7 @@ Connect with me :
 </p>
 
 ## PROFESSIONAL EXPERIENCES
-* __08.22 -__, Machine Learning Engineer, _Seven Sensing Software_, PARIS, FRANCE
+* __08.22 -04.25__, Machine Learning Engineer, _Seven Sensing Software (an ams-OSRAM company)_, PARIS, FRANCE
 * __01.22 -08.22__, AI Engineer, _NAVAL GROUP_, SAINT TROPEZ, FRANCE
 * __06.21 - 01.22__, R&D DATA SCIENTIST, _NAVAL GROUP_, TOULON, FRANCE
 * __02.18 - 08.19__, DATA SCIENTIST, _AIRBUS HELICOPTERS_, MARSEILLE, FRANCE
