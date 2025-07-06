@@ -54,7 +54,7 @@ Connect with me :
 
 ## PROFESSIONAL EXPERIENCES
 
-* __08.22 -04.25__, DATA SCIENTIST (R&D), _Syroco_, MARSEILLE, FRANCE
+* __04.25 -__, DATA SCIENTIST (R&D), _Syroco_, MARSEILLE, FRANCE
 * __08.22 -04.25__, Machine Learning Engineer, _Seven Sensing Software (an ams-OSRAM company)_, PARIS, FRANCE
 * __01.22 -08.22__, AI Engineer, _NAVAL GROUP_, SAINT TROPEZ, FRANCE
 * __06.21 - 01.22__, DATA SCIENTIST (R&D), _NAVAL GROUP_, TOULON, FRANCE
