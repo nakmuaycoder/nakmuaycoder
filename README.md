@@ -1,76 +1,87 @@
-# นักมวยโคเดอร์ 
+<!-- Banner -->
+<img src="kick.png" alt="nakmuaycoder-kick" width="100%" />
 
-<img src="kick.png" alt="drawing" width="800"/>
+# 🥊 Hi, I'm **nakmuaycoder**
 
-# Hi! I'm **nakmuaycoder**
+A former professional Muay Thai fighter turned AI enthusiast.  
+Currently working as a **Data Scientist** at **Syroco**, blending physical discipline with analytical precision.
 
-I'm a former professional muay thai fighter passionated in Artificial intelligence.<br>
-I’m currently working as **Computer vision and ML Engineer** at **7 sensing software** *(an ams-OSRAM company)*.
+---
 
-
-Connect with me :
-
-<a href="https://www.linkedin.com/in/olivier-feher-9446b5105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-
-## Languages and Tools:
-
-#### Platforms
-<p style="text-align:left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/" target="_blank" rel="noreferrer"> <img src="index.svg" alt="jetson" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" height="40"/> </a></p>
-  
-#### Software Development
-<p style="text-align:left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></a>
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/olivier-feher-9446b5105/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="24" height="24" />
+    &nbsp;LinkedIn
+  </a>
 </p>
 
-#### Data Science
-<p style="text-align:left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://networkx.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" height="40"/> </a>
-</p> 
-  
+---
 
-#### Data Visualisation
-<p style="text-align:left">
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://bokeh.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/8440965?s=200&v=4" alt="bokeh" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+## 🛠️ Languages & Tools
+
+### 💻 Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" />
+  <img src="index.svg" alt="jetson" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40" />
 </p>
 
-## PROFESSIONAL EXPERIENCES
+### 👨‍💻 Software Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" />
+</p>
 
-* __04.25 -__, DATA SCIENTIST (R&D), _Syroco_, MARSEILLE, FRANCE
-* __08.22 -04.25__, Machine Learning Engineer, _Seven Sensing Software (an ams-OSRAM company)_, PARIS, FRANCE
-* __01.22 -08.22__, AI Engineer, _NAVAL GROUP_, SAINT TROPEZ, FRANCE
-* __06.21 - 01.22__, DATA SCIENTIST (R&D), _NAVAL GROUP_, TOULON, FRANCE
-* __02.18 - 08.19__, DATA SCIENTIST, _AIRBUS HELICOPTERS_, MARSEILLE, FRANCE
-* __10.17 - 02.18__, DATA ANALYST, _PwC France_, MONTPELLIER, FRANCE
-* __01.16 - 05.17__, MUAY THAI FIGHTER, _Sitboonmee Gym_, BURIRAM, THAILAND
+### 📊 Data Science & AI
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/388785?s=280&v=4" alt="networkx" width="40" />
+</p>
 
-<p style="text-align:left">
-<a href="https://www.youtube.com/watch?v=Cl7UZN4Wqzk" target="_blank" rel="noreferrer">
-<img src="https://img.youtube.com/vi/Cl7UZN4Wqzk/1.jpg">
-</a></p>
+### 📈 Data Visualization
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" />
+  <img src="https://avatars.githubusercontent.com/u/8440965?s=200&v=4" alt="bokeh" width="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" />
+</p>
 
+---
 
-* __04.15 - 12.15__, DATA ANALYST _(internship)_, _GEMALTO_, LA CIOTAT, FRANCE
-* __04.14 - 08.14__, Statistician _(internship)_, _Commission Locale d’Information de Cadarache et d’ITER_, AIX EN PROVENCE, FRANCE
+## 💼 Professional Experience
 
-## EDUCATION
-* __2013 - 2015__, Master Maths et Application, _Aix Marseille Université_, France
-* __2010 - 2013__, Bachelor Maths Appliqués, _Aix Marseille Université_, France
+| Year          | Position                                  | Company                                        | Location               |
+|---------------|-------------------------------------------|------------------------------------------------|------------------------|
+| 04.2025–Now   | Data Scientist (R&D)                      | **Syroco**                                     | Marseille, France      |
+| 08.2022–04.25 | Machine Learning Engineer                | **Seven Sensing Software (ams-OSRAM)**        | Paris, France          |
+| 01.2022–08.22 | AI Engineer                              | **Naval Group**                                | Saint-Tropez, France   |
+| 06.2021–01.22 | Data Scientist (R&D)                     | **Naval Group**                                | Toulon, France         |
+| 02.2018–08.19 | Data Scientist                           | **Airbus Helicopters**                         | Marseille, France      |
+| 10.2017–02.18 | Data Analyst                             | **PwC France**                                 | Montpellier, France    |
+| 01.2016–05.17 | 🥊 Muay Thai Fighter                      | **Sitboonmee Gym**                             | Buriram, Thailand      |
+|               | [Watch Me Fight](https://www.youtube.com/watch?v=Cl7UZN4Wqzk) |
+| 04.2015–12.15 | Data Analyst (Internship)                | **Gemalto**                                    | La Ciotat, France      |
+| 04.2014–08.14 | Statistician (Internship)                | **CLI Cadarache & ITER**                       | Aix-en-Provence, France|
+
+---
+
+## 🎓 Education
+
+- **Master** in Mathematics & Applications – *Aix-Marseille Université* (2013–2015)  
+- **Bachelor** in Applied Mathematics – *Aix-Marseille Université* (2010–2013)
+
+---
+
+> _From the ring to the code — discipline, precision, and endurance are my tools in both._
+
