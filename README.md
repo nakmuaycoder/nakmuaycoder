@@ -10,7 +10,7 @@ Currently working as a **Data Scientist** at **Syroco**, blending physical disci
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/olivier-feher-%E0%B9%80%E0%B8%9F%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%82%E0%B8%AD%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C-9446b5105" target="_blank">
+  <a href="https://www.linkedin.com/in/olivier-feher" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="24" height="24" />
     &nbsp;LinkedIn
   </a>
